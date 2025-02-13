@@ -1,7 +1,3 @@
-# 
-
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
-
 ## 学歴
 - **(2018-2021) 滋賀県立 膳所高等学校 普通科**
 - **(2021-2025) 静岡大学 情報学部 情報科学科**
@@ -14,9 +10,10 @@
 [詳細](https://www.ipsj.or.jp/event/taikai/87/index.html)
 
 ## 資格
-- (2023.07) TOEIC® 730点
-(2023.07) TOEIC® 730点
+- **(2023.07) TOEIC® 730点**
 
-## 研究分野・スキル
-#### 画像処理, 機械学習，物体検出
-#### Python, Jupyter Notebook, Pytorch, Java, C言語
+## 研究分野
+**画像処理, 機械学習，物体検出**
+
+## スキル
+**Python, Jupyter Notebook, Pytorch, Java, C言語**
