@@ -1,9 +1,11 @@
-# Data Scientist
+# 
 
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## 学歴
+- (2018-2021) 滋賀県立 膳所高等学校 普通科
+- (2021-2025) 静岡大学 情報学部 情報科学科
+- (2025-2027) 静岡大学大学院 総合科学技術研究科 情報学専攻
 
+## 学会発表
+- (2024.12) 下口泰輝，他: “Line2Lineを用いた条件付き画像生成による農業用生成データ拡張の検討”，第22回情報学ワークショップ（WiNF2024）．
