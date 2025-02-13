@@ -1,3 +1,4 @@
+# This is
 ## 学歴
 - **(2018-2021) 滋賀県立 膳所高等学校 普通科**
 - **(2021-2025) 静岡大学 情報学部 情報科学科**
@@ -17,3 +18,10 @@
 
 ## スキル
 **Python, Jupyter Notebook, Pytorch, Java, C言語**
+
+## 投稿記事（Zenn）
+[Zenn](https://zenn.dev/xiakou)
+- **ローカルDifyでLLMと遊ぶ**
+- **非人体Keypoint検出評価指標OKSの難しいところ**
+- **chapter見出しを二重線で装飾しよう!!**
+- and more ...
