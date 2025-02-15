@@ -6,9 +6,9 @@
 
 ## 学会発表・業績
 - **(2024.12) 下口泰輝，他: “Line2Lineを用いた条件付き画像生成による農業用生成データ拡張の検討”，第22回情報学ワークショップ（WiNF2024）．**
-[詳細](https://sites.google.com/view/winf2024/)
+[詳細](https://sites.google.com/view/winf2024/){:target="_blank" rel="noopener noreferrer"}
 - **(2025.03) 下口泰輝，他: “実圃場環境を考慮したControlNetによる農業用生成データ拡張手法の評価”，第87回情報処理学会全国大会．**
-[詳細](https://www.ipsj.or.jp/event/taikai/87/index.html)
+[詳細](https://www.ipsj.or.jp/event/taikai/87/index.html){:target="_blank" rel="noopener noreferrer"}
 
 ## 資格
 - **(2023.07) TOEIC® 730点**
@@ -20,7 +20,7 @@
 **Python, Jupyter Notebook, Pytorch, Java, C言語**
 
 ## 投稿記事（Zenn）
-[Zenn](https://zenn.dev/xiakou)
+[Zenn](https://zenn.dev/xiakou){:target="_blank" rel="noopener noreferrer"}
 - **ローカルDifyでLLMと遊ぶ**
 - **非人体Keypoint検出評価指標OKSの難しいところ**
 - **chapter見出しを二重線で装飾しよう!!**
