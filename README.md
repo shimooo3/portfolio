@@ -14,7 +14,7 @@
 [詳細](https://www.ipsj.or.jp/event/taikai/87/index.html){:target="_blank" rel="noopener noreferrer"}
 
 ## 業績
-- **（2025.03）学生奨励賞 @情報処理学会第87回全国大会**
+- **（2025.03）学生奨励賞 @情報処理学会第87回全国大会．**
 [詳細](https://www.ipsj.or.jp/award/taikaigakusei.html){:target="_blank" rel="noopener noreferrer"}
 
 ## 資格
