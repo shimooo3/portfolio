@@ -18,7 +18,7 @@
 [詳細](https://www.ipsj.or.jp/award/taikaigakusei.html){:target="_blank" rel="noopener noreferrer"}
 
 ## 資格
-- **(2023.07) TOEIC® 730点**
+- **(2023.07) TOEIC® 735点**
 
 ## 研究分野
 **画像処理, 機械学習，物体検出**
